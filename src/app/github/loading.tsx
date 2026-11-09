@@ -1,0 +1,1 @@
+export default function Loading(){return <div className="shell page"><span className="eyebrow">PUBLIC GITHUB</span><h1>Loading <em>projects…</em></h1></div>}

@@ -1,0 +1,1 @@
+export const site={name:'Mashiel Khan',role:'Software Developer • AI & Full-stack',location:'Lahore, Pakistan',github:'https://github.com/Mashielkhan',tagline:'Building AI-powered products for real businesses.',description:'BSCS student and software developer building AI tools, practical business software and interactive web experiences.'};
